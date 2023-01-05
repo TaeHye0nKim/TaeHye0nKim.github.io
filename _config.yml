@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/IMG_0328.JPG
+avatar: assets/img/astronaut_spacesuit_reflection_144426_1920x1080.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
